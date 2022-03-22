@@ -2,6 +2,9 @@
 using DesafioGFT_22_03_2022.src.classes.Teste2;
 using DesafioGFT_22_03_2022.src.classes.Teste3;
 using DesafioGFT_22_03_2022.src.classes.Teste4;
+using System.Linq;
+using System.Globalization;
+using System.Collections.Generic;
 
 public class Program
 {
@@ -44,7 +47,7 @@ X- Sair");
 
                     break;
                 default:
-                    Console.WriteLine("Dígito errado, rode novamente o código e tente novamente");
+                    Console.WriteLine("Dígito errado, tente novamente");
                     break;
             }
             Menu();
