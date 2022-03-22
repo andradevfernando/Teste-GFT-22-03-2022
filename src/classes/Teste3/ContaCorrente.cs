@@ -1,6 +1,7 @@
 namespace DesafioGFT_22_03_2022.src.classes.Teste3;
+using DesafioGFT_22_03_2022.src.interfaces;
 
-public class ContaCorrente : Conta
+public class ContaCorrente : Conta, IImposto
 {
     public ContaCorrente()
     {
@@ -16,7 +17,12 @@ public class ContaCorrente : Conta
     public override decimal Rendimento(decimal saldo)
     {
         decimal rendimento = saldo * 0.03m;
-        this.saldo -= 0.75m;
+        this.rendimento = rendimento;
         return rendimento;
+    }
+    public decimal CalcularImposto()
+    {
+        decimal imposto = this.rendimento * 0.1m;
+        return imposto;
     }
 }

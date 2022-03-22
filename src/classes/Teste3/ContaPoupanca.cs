@@ -1,6 +1,6 @@
 namespace DesafioGFT_22_03_2022.src.classes.Teste3;
-
-public class ContaPoupanca : Conta
+using DesafioGFT_22_03_2022.src.interfaces;
+public class ContaPoupanca : Conta, IImposto
 {
     public ContaPoupanca()
     {
@@ -16,6 +16,12 @@ public class ContaPoupanca : Conta
     public override decimal Rendimento(decimal saldo)
     {
         decimal rendimento = saldo * 0.05m;
+        this.rendimento = rendimento;
         return rendimento;
+    }
+    public decimal CalcularImposto()
+    {
+        decimal imposto = this.rendimento * 0.25m;
+        return imposto;
     }
 }

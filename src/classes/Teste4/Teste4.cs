@@ -6,7 +6,6 @@ public class Teste4
 {
     public static void Teste()
     {
-        Console.WriteLine("Bom dia");
-
+        Console.WriteLine("O exercício 4 está imbutido no exercício 3");
     }
 }
