@@ -10,8 +10,10 @@ public class Program
 {
     public static void Main()
     {
+        //Inicializando o método Choose
         Choose();
     }
+    //Criação de um menu onde o usuário tera a informação visual de qual teste ele pode escolher e qual input deve utilizar para acessar tal teste
     static void Menu()
     {
         {
@@ -24,11 +26,14 @@ Welcome, choose your option
 X- Sair");
         }
     }
+    //Método Choose(escolher) onde o usuário terá 5 opções, o Teste 1, 2, 3 , 4 e uma opção para finalizar
     static void Choose()
     {
         Menu();
+        //Lendo a entrada do usuário
         string choose = Console.ReadLine();
 
+        //Realizando um loop para que o usuário sempre tenha a opção de escolher até o mesmo finalizar o código com o input da letra "x" maiúscula ou minúscula
         while (choose != "X".ToUpper())
         {
             switch (choose)
@@ -44,7 +49,6 @@ X- Sair");
                     break;
                 case "4":
                     Teste4.Teste();
-
                     break;
                 default:
                     Console.WriteLine("Dígito errado, tente novamente");
