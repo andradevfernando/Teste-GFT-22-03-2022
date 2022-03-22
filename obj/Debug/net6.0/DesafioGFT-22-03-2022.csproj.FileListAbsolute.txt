@@ -1,0 +1,15 @@
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\bin\Debug\net6.0\DesafioGFT-22-03-2022.exe
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\bin\Debug\net6.0\DesafioGFT-22-03-2022.deps.json
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\bin\Debug\net6.0\DesafioGFT-22-03-2022.runtimeconfig.json
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\bin\Debug\net6.0\DesafioGFT-22-03-2022.dll
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\bin\Debug\net6.0\ref\DesafioGFT-22-03-2022.dll
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\bin\Debug\net6.0\DesafioGFT-22-03-2022.pdb
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\obj\Debug\net6.0\DesafioGFT-22-03-2022.csproj.AssemblyReference.cache
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\obj\Debug\net6.0\DesafioGFT-22-03-2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\obj\Debug\net6.0\DesafioGFT-22-03-2022.AssemblyInfoInputs.cache
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\obj\Debug\net6.0\DesafioGFT-22-03-2022.AssemblyInfo.cs
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\obj\Debug\net6.0\DesafioGFT-22-03-2022.csproj.CoreCompileInputs.cache
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\obj\Debug\net6.0\DesafioGFT-22-03-2022.dll
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\obj\Debug\net6.0\ref\DesafioGFT-22-03-2022.dll
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\obj\Debug\net6.0\DesafioGFT-22-03-2022.pdb
+C:\workspace\PROJETOS\DesafioGFT-22-03-2022\obj\Debug\net6.0\DesafioGFT-22-03-2022.genruntimeconfig.cache
